@@ -1,7 +1,4 @@
-nes (16 sloc)  236 Bytes
- 
-
-#include "main.h"
+#include "main.c"
 /**
  *_puts_recursion - prints a string
  *@s: pointer block of memory to fill
